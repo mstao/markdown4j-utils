@@ -1,4 +1,4 @@
-package fun.mingshan.markdown4j.util.enums;
+package fun.mingshan.markdown4j.extension.enums;
 
 import java.lang.annotation.*;
 
